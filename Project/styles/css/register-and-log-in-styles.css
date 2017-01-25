@@ -1,0 +1,42 @@
+#log-in-container {
+  background: #baffba; }
+
+#register-container {
+  background: #ffbaba; }
+
+.container {
+  display: inline-block; }
+
+.container {
+  min-height: 320px;
+  border: 2px solid;
+  margin: 0px;
+  float: left; }
+
+input {
+  min-width: 200px;
+  min-height: 25px;
+  font-size: 15px; }
+
+label, input, h2 {
+  margin: 10px;
+  font-family: "Arial", "Helvetica", "sans-serif"; }
+
+#register-button {
+  background: red; }
+
+#log-in-button {
+  margin-top: 35px;
+  background: green; }
+
+.button {
+  color: white;
+  font-size: 15px;
+  position: relative; }
+
+#register-and-log-in-container {
+  width: 445px;
+  margin: auto;
+  padding-top: 30px; }
+
+/*# sourceMappingURL=register-and-log-in-styles.css.map */
